@@ -1,4 +1,4 @@
-FROM alpine:3.19.1
+FROM alpine:3.19.3
 LABEL org.opencontainers.image.authors="DEVOPly <contact@devoply.com>"
 
 ENV GLIBC_VERSION 2.35-r1
